@@ -22,7 +22,7 @@ smd(
     pattern: "nikkaai",
     desc: "Generate an AI photo.",
     react: "🤖,"
-    category: "nsfw",
+    category: "fun",
     filename: __filename,
     use: "<query>",
   },
