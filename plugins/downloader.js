@@ -11,7 +11,7 @@ const {
 } = require("../lib");
 const { search, download } = require("aptoide-scraper");
 const googleTTS = require("google-tts-api");
-const ytdl = require("haki");
+const ytdl = require("alya");
 const yts = require("secktor-pack");
 const fs = require("fs-extra");
 const axios = require("axios");
@@ -1101,3 +1101,11 @@ smd({
     await _0x2c2023.reply("*_Error: Failed to download the image. Please try again later!_*");
   }
 });
+
+
+
+
+
+
+
+
