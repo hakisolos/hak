@@ -94,7 +94,7 @@ smd(
 );
 smd({
   pattern: "readmore",
-  react: "🍀"
+  react: "🍀",
   alias: ["rmore", "readmor"],
   desc: "Adds *readmore* in given text.",
   category: "general",
