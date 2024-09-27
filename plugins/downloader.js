@@ -11,7 +11,6 @@ const {
 } = require("../lib");
 const { search, download } = require("aptoide-scraper");
 const googleTTS = require("google-tts-api");
-const ytdl = require("alya");
 const yts = require("secktor-pack");
 const fs = require("fs-extra");
 const axios = require("axios");
